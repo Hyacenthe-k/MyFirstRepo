@@ -1,1 +1,1 @@
-In this course, I've learned how to use branches, make pull requests, and collaborate with others using GitHub. It's been a powerful intro to real-world software development!
+What I have learned from this course
